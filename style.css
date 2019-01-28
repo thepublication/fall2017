@@ -1,0 +1,14 @@
+#menu-nav-1 li a {
+    background-color: #fff;
+    color: #555;
+
+h1, h2, h3, .h1, .h2, .h3 {
+font-family: Arial, sans-serif;
+font-style: italic, bold, underline;
+}
+
+p, .p, li, .li {
+font-family: Arial, sans-serif;
+font-style: italic;
+}
+
