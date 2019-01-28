@@ -6,6 +6,9 @@ h1, h2, h3, .h1, .h2, .h3 {
 font-family: Arial, sans-serif;
 font-style: italic, bold, underline;
 }
+    h1 {
+        text-align: center;
+    }
 
 p, .p, li, .li {
 font-family: Arial, sans-serif;
