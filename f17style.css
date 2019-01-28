@@ -2,21 +2,40 @@
     background-color: #fff;
     color: #555;
 
-h1, h2, h3, .h1, .h2, .h3 {
+h1 {
 font-family: Arial, sans-serif;
 font-style: italic;
     text-decoration: underline;
     color: #800020;
-    
-}
-    h1 {
-        text-align: center;
-        color: #800020;
+    text-align: center;
     }
+    
+    h2 {
+        font-family: Arial, sans-serif;
+font-style: italic;
+    text-decoration: underline;
+    color: #800020;
+    text-align: center;
+    }
+    
+    h3 {
+        font-family: Arial, sans-serif;
+font-style: italic;
+    text-decoration: underline;
+    color: #800020;
+    text-align: center;
+    }
+       
+        
+   
 
-p, .p, li, .li {
+p {
 font-family: Arial, sans-serif;
 font-style: italic;
     color: #483c32;
 }
-
+    li {
+    font-family: Arial, sans-serif;
+font-style: italic;
+    color: #483c32;
+    }
