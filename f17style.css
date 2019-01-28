@@ -4,14 +4,19 @@
 
 h1, h2, h3, .h1, .h2, .h3 {
 font-family: Arial, sans-serif;
-font-style: italic, bold, underline;
+font-style: italic;
+    text-decoration: underline;
+    color: #800020;
+    
 }
     h1 {
         text-align: center;
+        color: #800020;
     }
 
 p, .p, li, .li {
 font-family: Arial, sans-serif;
 font-style: italic;
+    color: #483c32;
 }
 
